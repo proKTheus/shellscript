@@ -16,5 +16,5 @@
 #
 #----------------------------------------
 clear
-echo "Hello World"
+echo "Teste"
 exit
